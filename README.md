@@ -5,7 +5,7 @@ A simple web-based shopping cart system where users can browse products, add ite
 
 📌 Features
 
-User registration & login
+<h1>User registration & login</h1>
 
 Browse products
 
@@ -19,7 +19,7 @@ Checkout
 
 Admin product management
 
-🛠️ Tech Stack
+<h1>🛠️ Tech Stack</h1>
 
 PHP
 
